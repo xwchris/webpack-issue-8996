@@ -1,3 +1,5 @@
+# webpack-issue-8996
+
 This is an tiny demo for webpack [issue#8996](https://github.com/webpack/webpack/issues/8996).
 
 ## how to start
@@ -8,7 +10,7 @@ use command like following
 npm start
 ```
 
-and then open `[localhost:8080](http://localhost:8080)` in browser
+and then open `http://localhost:8080` in browser
 
 but if you run webpack in development mode
 

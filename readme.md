@@ -1,3 +1,5 @@
+This is an tiny demo for webpack [issue#8996](https://github.com/webpack/webpack/issues/8996).
+
 ## how to start
 use command like following
 

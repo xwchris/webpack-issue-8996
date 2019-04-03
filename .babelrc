@@ -1,0 +1,14 @@
+{
+  "presets": [[
+    "@babel/env",
+    {
+      "targets": {
+        "esmodules": true
+      },
+      "modules": false
+    }
+  ],"@babel/react"],
+  "plugins": [
+    "@babel/plugin-syntax-dynamic-import"
+  ]
+}
